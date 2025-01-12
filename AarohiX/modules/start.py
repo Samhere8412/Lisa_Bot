@@ -81,11 +81,11 @@ async def start(_, m: Message):
             text=random.choice(EMOJIOS),
         )
         await asyncio.sleep(1.3)
-        await accha.edit("Ꭻᴀʏ")
+        await accha.edit("Hum")
         await asyncio.sleep(0.2)
-        await accha.edit("ᎫᴀʏㅤᏚʜʀᴇᴇ")
+        await accha.edit("Apke hai")
         await asyncio.sleep(0.2)
-        await accha.edit("🙏|| ᎫᴀʏㅤᏚʜʀᴇᴇㅤᏒᴀᴍ ||🙏")
+        await accha.edit("Hum apke hai")
         await asyncio.sleep(0.2)
         await accha.delete()
         umm = await m.reply_sticker(sticker=random.choice(STICKER))
@@ -104,7 +104,7 @@ async def start(_, m: Message):
 ━━━━━━━━━━━━━━
 <b>||💬 ʜɪᴛ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ғᴏʀ ʜᴇʟᴘ!||</b>
 
-<b>🧑‍💻 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/dil_sagar_121'>ᴅɪʟ❣️</a></b>""",
+<b>🧑‍💻 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/KingOfHellLuci'>king</a></b>""",
             reply_markup=InlineKeyboardMarkup(DEV_OP),
         )
         await add_served_user(m.from_user.id)
