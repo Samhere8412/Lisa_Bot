@@ -4,12 +4,12 @@ from AarohiX import AarohiX
 START = f"""
 **🌟 ɪɴɴᴏᴠᴀᴛɪᴠᴇ ᴀɪ ᴅᴇᴠᴇʟᴏᴘᴇʀ 🌟**
 
-**ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴛʜᴇ ғᴜᴛᴜʀᴇ ᴏғ ᴄʜᴀᴛʙᴏᴛs ᴡɪᴛʜ [{AarohiX.name}](t.me/{AarohiX.username})!**
+**ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴛʜᴇ ғᴜᴛᴜʀᴇ ᴏғ ᴄʜᴀᴛʙᴏᴛs ᴡɪᴛʜ [{Lisa_chat_robot.name}](t.me/{Lisa_chat_robot.username})!**
 **ᴇɴɧᴀɴᴄɪɴɢ ᴄᴏᴍᴍᴜɴɪᴄᴀᴛɪᴏɴs, ᴏɴʟɪɴᴇ, ᴡɪᴛʜ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ!**
 ━━━━━━━━━━━━━━
 <b>||💬 ʜɪᴛ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ғᴏʀ ʜᴇʟᴘ!||</b>
 
-<b>🧑‍💻 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/dil_sagar_121'>ᴅɪʟ❣️</a></b>
+<b>🧑‍💻 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/KingOfHellLuci'>King</a></b>
 """
 
 HELP_READ = f"""
@@ -39,7 +39,7 @@ CHATBOT_READ = f"""
 <b>||©️ @{OWNER_USERNAME}||</b>
 """
 
-SOURCE_READ = f"**ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ [{AarohiX.name}](https://t.me/{AarohiX.username}) ɪs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.**\n**ᴘʟᴇᴀsᴇ ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ & ɢɪᴠᴇ ᴛʜᴇ sᴛᴀʀ ✯**\n**──────────────────**\n**ʜᴇʀᴇ ɪs ᴛʜᴇ [sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ](https://github.com/AAROHIxCHATBOTv2)**\n**──────────────────**\n**ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/{SUPPORT_GRP}).\n<b>||©️ @{OWNER_USERNAME}||</b>"
+SOURCE_READ = f"**ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ [{AarohiX.name}](https://t.me/{AarohiX.username}) ɪs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.**\n**ᴘʟᴇᴀsᴇ ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ & ɢɪᴠᴇ ᴛʜᴇ sᴛᴀʀ ✯**\n**──────────────────**\n**ʜᴇʀᴇ ɪs ᴛʜᴇ [sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ](https://t.me/Global_CHATTING_HINDI_ZONE)**\n**──────────────────**\n**ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/Global_CHATTING_HINDI_ZONE).\n<b>||©️ @{OWNER_USERNAME}||</b>"
 
 ADMIN_READ = f"sᴏᴏɴ"
 
