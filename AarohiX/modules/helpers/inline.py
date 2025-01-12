@@ -8,7 +8,7 @@ DEV_OP = [
     [
         InlineKeyboardButton(
             text="• ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ •",
-            url=f"https://t.me/{Lisa_chat_robot.username}?startgroup=true",
+            url=f"https://t.me/{AarohiX.username}?startgroup=true",
         ),
     ],
     [
@@ -28,7 +28,7 @@ PNG_BTN = [
     [
         InlineKeyboardButton(
             text="😍 ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ 😍",
-            url=f"https://t.me/{Lisa_chat_robot.username}?startgroup=true",
+            url=f"https://t.me/{AarohiX.username}?startgroup=true",
         ),
     ],
     [
